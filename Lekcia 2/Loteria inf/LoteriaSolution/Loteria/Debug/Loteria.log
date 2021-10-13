@@ -1,0 +1,3 @@
+﻿  Main.c
+C:\Users\mitala1\Desktop\Loteria inf\LoteriaSolution\Loteria\Main.c(12,6): warning C4013: 'Tah' undefined; assuming extern returning int
+  Loteria.vcxproj -> C:\Users\mitala1\Desktop\Loteria inf\LoteriaSolution\Debug\Loteria.exe
